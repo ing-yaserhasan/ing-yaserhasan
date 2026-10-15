@@ -11,14 +11,22 @@
 [![Deutsch mit Vienix](https://img.shields.io/badge/Official_Site-deutschmitvienix.com-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.deutschmitvienix.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-ing--yaserhasan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ing-yaserhasan)
 
+<br/><br/>
+
+<p align="center">
+  🌐 <strong>Interaktiver Web-Katalog (Live Website):</strong><br/>
+  👉 <a href="https://ing-yaserhasan.github.io/Vienix/"><strong>https://ing-yaserhasan.github.io/Vienix/</strong></a><br/>
+  <sub><em>✨ Öffnet alle Projekte in neuen Fenstern • Mit Tag- und Nacht-Modus (Light & Dark) • 🇩🇪 🇬🇧 🇸🇦</em></sub>
+</p>
+
 <br/>
 
 <p align="center">
+  <a href="https://ing-yaserhasan.github.io/Vienix/"><strong>[ 🌐 Zum Live Web-Katalog ↗ ]</strong></a> &nbsp;•&nbsp;
   <a href="#-kurzprofil--about-me"><strong>[ 👨‍💻 Über mich ]</strong></a> &nbsp;•&nbsp;
   <a href="#-flaggschiff-projekte--katalog"><strong>[ 🗂️ Flaggschiff-Katalog ]</strong></a> &nbsp;•&nbsp;
   <a href="#-open-source-highlight-disktree"><strong>[ ⚡ Disktree-Entwicklung ]</strong></a> &nbsp;•&nbsp;
-  <a href="#-technologie-stack--skills"><strong>[ 🛠️ Tech-Stack ]</strong></a> &nbsp;•&nbsp;
-  <a href="#-kontakt--connect"><strong>[ 📬 Kontakt ]</strong></a>
+  <a href="#-technologie-stack--skills"><strong>[ 🛠️ Tech-Stack ]</strong></a>
 </p>
 
 </div>
