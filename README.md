@@ -8,7 +8,7 @@
 
 [![Vienix Ecosystem](https://img.shields.io/badge/Vienix-Ecosystem_Hub-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/ing-yaserhasan/Vienix)
 [![Live Portfolio](https://img.shields.io/badge/Live_App-Vienix_Archive-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://vienix-git-archive.vercel.app)
-[![Languages](https://img.shields.io/badge/Languages-DE%20%7C%20EN%20%7C%20AR-8b5cf6?style=for-the-badge)](#-sprachen--languages)
+[![Deutsch mit Vienix](https://img.shields.io/badge/Official_Site-deutschmitvienix.com-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.deutschmitvienix.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-ing--yaserhasan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ing-yaserhasan)
 
 <br/>
@@ -16,6 +16,7 @@
 <p align="center">
   <a href="#-kurzprofil--about-me"><strong>[ 👨‍💻 Über mich ]</strong></a> &nbsp;•&nbsp;
   <a href="#-flaggschiff-projekte--katalog"><strong>[ 🗂️ Flaggschiff-Katalog ]</strong></a> &nbsp;•&nbsp;
+  <a href="#-open-source-highlight-disktree"><strong>[ ⚡ Disktree-Entwicklung ]</strong></a> &nbsp;•&nbsp;
   <a href="#-technologie-stack--skills"><strong>[ 🛠️ Tech-Stack ]</strong></a> &nbsp;•&nbsp;
   <a href="#-kontakt--connect"><strong>[ 📬 Kontakt ]</strong></a>
 </p>
@@ -34,6 +35,7 @@ Ich bin **Ing. Yaser Hasan**, passionierter Software-Ingenieur mit Fokus auf mod
 
 * 🚀 **Architektur & Entwicklung**: Spezialisiert auf React, Next.js und datenschutzorientierte browserbasierte Speichermodelle (IndexedDB).
 * 🤖 **KI-Integration**: Praktische Implementierung von Google Gemini AI zur intelligenten Analyse, Strukturierung und Automatisierung von Codebases.
+* ⚡ **System- & Tooling-Entwicklung**: Aktive Weiterentwicklung performanter Open-Source-Werkzeuge (wie z. B. Disktree in Rust) mit professionellen Dienstleistungen und Optimierungen.
 * 🛡️ **Datenschutz & Performance**: Verfechter schneller, transparenter und privatsphärefreundlicher Softwarelösungen ohne unnötigen Ballast.
 </details>
 
@@ -47,6 +49,7 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
 
 * 🚀 **Full-Stack & Architecture**: Focused on React, Next.js, and client-side storage architectures (IndexedDB).
 * 🤖 **AI Engineering**: Hands-on integration of Google Gemini AI for codebase analysis, auto-summarization, and workflow automation.
+* ⚡ **Systems & Open-Source Engineering**: Active contributor and developer of high-performance tooling (such as Disktree in Rust) featuring enterprise-grade services and speed.
 * 🛡️ **Privacy & Performance**: Designing software that respects user privacy with direct HTTPS communication and zero intermediary overhead.
 </details>
 
@@ -56,22 +59,23 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
 <summary><strong>🇸🇦 العربية</strong></summary>
 <br/>
 
-أنا **المهندس ياسر حسن**، مهندس برمجيات متخصص في بناء معماريات الويب الحديثة، والأنظمة المحلية أولاً (Local-First)، وتطبيقات الذكاء الاصطناعي التوليدي من Google Gemini.
+أنا **المهندس ياسر حسن**، مهندس برمجيات متخصص في بناء معماريات الويب الحديثة، والأنظمة المحلية أولاً (Local-First)، وتطبيقات الذكاء الاصطناعي التوليدي من Google Gemini، إلى جانب تطوير أدوات الأنظمة عالية الأداء بلغة Rust.
 
 * 🚀 **تطوير الويب الشامل**: تركيز عالٍ على React و Next.js وأنظمة التخزين الآمنة داخل المتصفح (IndexedDB).
 * 🤖 **تكامل الذكاء الاصطناعي**: توظيف نماذج Google Gemini لتحليل الأكواد، الفهرسة التلقائية، وتقديم تجارب مستخدم تفاعلية وذكية.
+* ⚡ **هندسة الأنظمة والأدوات المتقدمة**: المساهمة والتطوير النشط لمشاريع مفتوحة المصدر عالية الأداء (مثل مشروع Disktree المطور بلغة Rust) وإضافة خدمات احترافية متكاملة.
 * 🛡️ **الخصوصية والأداء العالي**: الالتزام بأعلى معايير الخصوصية والأمان عبر الاتصال المباشر والسرعة الفائقة.
 </details>
 
 ---
 
-## 🗂️ Flaggschiff-Projekte & Katalog | Featured Ecosystem
+## 🗂️ Flaggschiff-Projekte & Katalog | Featured Ecosystem (4 Anwendungen)
 
 <table width="100%">
   <thead>
     <tr style="background-color: #0f172a; color: #f8fafc;">
-      <th align="center" width="25%"><strong>Projekt / Ökosystem</strong></th>
-      <th align="left" width="45%"><strong>Beschreibung & Highlights</strong></th>
+      <th align="center" width="24%"><strong>Projekt / Ökosystem</strong></th>
+      <th align="left" width="46%"><strong>Beschreibung & Highlights</strong></th>
       <th align="center" width="15%"><strong>Technologien</strong></th>
       <th align="center" width="15%"><strong>Live & Status</strong></th>
     </tr>
@@ -85,7 +89,7 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
       </td>
       <td>
         <strong>Intelligente Repository-Management-Plattform:</strong><br/>
-        Automatische Analyse, Kategorisierung und Zusammenfassung von Software-Repositories mit Google Gemini AI, lokaler Datenspeicherung im Browser (IndexedDB) und Google Sheets Cloud-Synchronisation.
+        Automatische Analyse, Kategorisierung und Zusammenfassung von Software-Repositories mit Google Gemini AI, lokaler Datenspeicherung im Browser (IndexedDB) und Google Sheets Synchronisation.
       </td>
       <td align="center">
         <code>Next.js</code><br/>
@@ -104,7 +108,7 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
     </tr>
     <tr>
       <td align="center">
-        <h3>📝 YaserMarkdown</h3>
+        <h3>📝 Yaser Markdown</h3>
         <img src="https://img.shields.io/badge/Web_Studio-Productivity-06b6d4?style=flat-square" alt="Studio" /><br/>
         <sub><em>High-Performance Markdown Studio</em></sub>
       </td>
@@ -127,7 +131,7 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
     </tr>
     <tr>
       <td align="center">
-        <h3>🎓 English-with-Vienix</h3>
+        <h3>🎓 English with Vienix</h3>
         <img src="https://img.shields.io/badge/EdTech-Learning_App-10b981?style=flat-square" alt="EdTech" /><br/>
         <sub><em>Interactive Language Learning Platform</em></sub>
       </td>
@@ -143,11 +147,51 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Private-Core_App-yellow?style=for-the-badge" alt="Private App" /><br/><br/>
-        <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square" alt="In Dev" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🇩🇪 Deutsch mit Vienix</h3>
+        <img src="https://img.shields.io/badge/EdTech-Mobile_%26_Web-ea580c?style=flat-square" alt="Mobile & Web" /><br/>
+        <sub><em>Comprehensive German Learning Hub</em></sub>
+      </td>
+      <td>
+        <strong>Offizielle Sprachlernplattform & Mobile App:</strong><br/>
+        Umfassende Anwendung zum Erlernen der deutschen Sprache mit interaktiven Lektionen, Grammatikübungen und Wortschatztraining, live erreichbar unter deutschmitvienix.com.
+      </td>
+      <td align="center">
+        <code>Mobile App</code><br/>
+        <code>React Native</code><br/>
+        <code>Web Platform</code><br/>
+        <code>Interactive Audio</code>
+      </td>
+      <td align="center">
+        <a href="https://www.deutschmitvienix.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Official_Site-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" />
+        </a><br/><br/>
+        <a href="https://github.com/ing-yaserhasan/deutsch-mit-yaser-mobile-app" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
+
+---
+
+## ⚡ Open-Source Highlight: Disktree (Erweitert von Ing. Yaser Hasan)
+### 🛠️ High-Performance System Tooling in Rust + GPUI
+
+> 🌟 **Aktive Weiterentwicklung & Professionelle Dienstleistungen**:  
+> Das Repository **[ing-yaserhasan/disktree](https://github.com/ing-yaserhasan/disktree)** wurde von **Ing. Yaser Hasan** mit herausragenden, hochgradig professionellen Services und System-Optimierungen weiterentwickelt.
+
+* 🔗 **Repository**: [github.com/ing-yaserhasan/disktree](https://github.com/ing-yaserhasan/disktree)
+* 🚀 **Kerntechnologien**: `Rust`, `GPUI`, blitzschnelle parallele Dateisystem-Traversierung.
+* 💡 **Leistungen von Ing. Yaser Hasan**:
+  - Implementierung robuster Dienstleistungen zur Identifizierung und sicheren Bereinigung großer Datenmengen auf Speicherlaufwerken.
+  - Performance-Tuning für unterbrechungsfreie grafische Echtzeit-Darstellung (Treemap-Rendering) auch bei Millionen von Dateien.
+  - Intelligente Behandlung unabhängiger Speichermedien und optimierte Deduplizierung.
 
 ---
 
@@ -156,15 +200,15 @@ I am **Ing. Yaser Hasan**, a software engineer dedicated to building modern, hig
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,nodejs,html,css,tailwind,git,github,vercel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,python,rust,nodejs,html,css,tailwind,git,github,vercel" alt="Skills" />
 </p>
 
 | Bereich | Technologien & Werkzeuge |
 |---|---|
 | **Frontend & UI** | Next.js, React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Responsive Design |
-| **Datenspeicherung & Cloud** | IndexedDB (Local-First), Google Sheets API, RESTful APIs, Vercel Serverless |
+| **Systeme & Sprachen** | Python, Rust, Node.js, RESTful APIs, Vercel Serverless |
+| **Datenspeicherung & Cloud** | IndexedDB (Local-First), Google Sheets API, Git-Archive |
 | **Künstliche Intelligenz** | Google Gemini AI Integration, Prompt Engineering, Automatisierte Analyse |
-| **DevOps & Workflow** | Git, GitHub, CI/CD Workflows, VS Code, Linux / Windows |
 
 </div>
 
@@ -191,7 +235,8 @@ Offen für technische Kooperationen, innovative Webprojekte und Software-Archite
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ing-yaserhasan)
 [![Vienix Platform](https://img.shields.io/badge/Vienix-Live_Platform-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://vienix-git-archive.vercel.app)
-[![YaserMarkdown](https://img.shields.io/badge/YaserMarkdown-Editor-06b6d4?style=for-the-badge&logo=markdown&logoColor=white)](https://yaser-markdown.vercel.app)
+[![Deutsch mit Vienix](https://img.shields.io/badge/Deutsch_mit_Vienix-Website-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.deutschmitvienix.com/)
+[![Yaser Markdown](https://img.shields.io/badge/Yaser_Markdown-Editor-06b6d4?style=for-the-badge&logo=markdown&logoColor=white)](https://yaser-markdown.vercel.app)
 
 <br/>
 
